@@ -1,0 +1,13 @@
+```math
+\begin{align*}
+&\max\,\,Profit=\sum_{j=1}^2c_jx_j\\
+&s.t.\begin{cases}
+2x_1+1x_2\leq2\\
+1x_1+2x_2\leq2\\
+3x_1+3x_2\leq4\\
+c_1=3000\\
+c_2=2000\\
+x_j\geq0&(j=1,2)\\
+\end{cases}\\
+\end{align*}
+```
